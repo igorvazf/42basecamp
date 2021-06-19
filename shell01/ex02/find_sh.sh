@@ -1,0 +1,1 @@
+basename -s .sh $(echo | find . -type f -name "*.sh")
